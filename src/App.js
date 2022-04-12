@@ -1,9 +1,10 @@
 import React from "react"
+import "./styles/main.scss"
 
 function App() {
   return (
     <div className="App">
-      <h1>Movie App</h1>
+      <h1 className="text-primary">Manga Tracker 3000</h1>
     </div>
   )
 }
